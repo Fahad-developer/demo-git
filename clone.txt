@@ -1,1 +1,2 @@
-This file is created to test git clone repo
+This file is created to test git clone repo.
+changes are made to see the git diff
